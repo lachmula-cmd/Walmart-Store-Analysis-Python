@@ -107,9 +107,12 @@ conda activate retail_eda
 # install deps
 pip install -r requirements.txt
 
+
 ---
 
-Author
+
+
+##Author
 
 Maysarah Aljamal
 
