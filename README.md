@@ -107,12 +107,11 @@ conda activate retail_eda
 
 # install deps
 pip install -r requirements.txt
+```
 
-
-
-
-##  Author
-Maysarah Aljamal
+## 👤 Author  
+Maysarah Aljamal  
+Microsoft Learn Student Ambassador
 [LinkedIn](https://www.linkedin.com/in/maysarah-aljamal-97a842323/) • [GitHub](https://github.com/lachmula-cmd)
 
 
