@@ -93,6 +93,7 @@ Each notebook cell includes a short
 
 ---
 
+
 ## 🧰 Environment & Setup
 
 **Python version:** 3.10+
@@ -108,14 +109,13 @@ conda activate retail_eda
 pip install -r requirements.txt
 
 
----
-
-
-
 
 
 ##  Author
 Maysarah Aljamal
 [LinkedIn](https://www.linkedin.com/in/maysarah-aljamal-97a842323/) • [GitHub](https://github.com/lachmula-cmd)
+
+
+
 
 
