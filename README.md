@@ -112,14 +112,10 @@ pip install -r requirements.txt
 
 
 
-##Author
 
+
+##  Author
 Maysarah Aljamal
-
-Microsoft Learn Student Ambassador
-
-GitHub: https://github.com/lachmula-cmd
-
-LinkedIn: https://www.linkedin.com/in/maysarah-aljamal-97a842323/
+[LinkedIn](https://www.linkedin.com/in/maysarah-aljamal-97a842323/) • [GitHub](https://github.com/lachmula-cmd)
 
 
